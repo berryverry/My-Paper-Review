@@ -1,4 +1,4 @@
-# 💢 IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis
+# 💢 IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis (AAAI 2025)
 
 Paper Review:
 
