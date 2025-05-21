@@ -1,4 +1,4 @@
-# ⭐ GROUNDHOG: Grounding Large Language Models to Holistic Segmentation
+# ⭐ GROUNDHOG: Grounding Large Language Models to Holistic Segmentation (CVPR 2024)
 
 Paper Review:  
 [**"GROUNDHOG: Grounding Large Language Models to Holistic Segmentation" (arXiv:2402.16846v2)**](https://arxiv.org/abs/2402.16846v2)
