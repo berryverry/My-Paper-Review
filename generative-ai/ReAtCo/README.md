@@ -1,4 +1,4 @@
-# 🎥 Re-Attentional Controllable Video Diffusion Editing
+# 🎥 Re-Attentional Controllable Video Diffusion Editing (AAAI 2025)
 
 Paper Review:  
 [**"Re-Attentional Controllable Video Diffusion Editing" (arXiv:2412.11710v1)**](https://arxiv.org/abs/2412.11710v1)
