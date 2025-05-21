@@ -7,7 +7,7 @@ Paper Review:
 
 ## 📌 Overview
 
-**ReAtCo** (**Re**-**At**tentional **Co**ntrollable Video Diffusion Editing)proposes a training-free method for fine-grained, text-guided video editing.  
+**ReAtCo** (**Re**-**At**tentional **Co**ntrollable Video Diffusion Editing) proposes a training-free method for fine-grained, text-guided video editing.  
 The core idea is to **inject cross-attention guidance** into the diffusion process to control spatial object placement (via RAD)  
 while maintaining background consistency (via IRJS). This allows the model to precisely manipulate **what** changes and **where**,  
 without retraining or massive computational resources.
