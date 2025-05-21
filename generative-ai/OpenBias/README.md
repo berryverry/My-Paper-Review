@@ -1,4 +1,4 @@
-# ✨ OpenBias: Open-set Bias Detection in Text-to-Image Generative Models
+# ✨ OpenBias: Open-set Bias Detection in Text-to-Image Generative Models (CVPR 2024 Highlight)
 
 Paper Review:  
 [**"OpenBias: Open-set Bias Detection in Text-to-Image Generative Models" (arXiv:2404.07990v2)**](https://arxiv.org/abs/2404.07990v2)
