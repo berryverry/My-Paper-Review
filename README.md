@@ -18,17 +18,17 @@ I focused on:
 
 ## 🎨 Generative AI
 
-- 🔗 [**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**](./generative-ai/OpenBias/README.md)  
+- 🔗 [**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models (CVPR 2024 Highlight)**](./generative-ai/OpenBias/README.md)  
 
-- 🔗 [**Re-Attentional Controllable Video Diffusion Editing**](./generative-ai/ReAtCo/README.md)
+- 🔗 [**Re-Attentional Controllable Video Diffusion Editing (AAAI 2025)**](./generative-ai/ReAtCo/README.md)
 
 ---
 
 ## 📚 Vision & Language
 
-- 🔗 [**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation**](./vision-language/GROUNDHOG/README.md)
+- 🔗 [**GROUNDHOG: Grounding Large Language Models to Holistic Segmentation (CVPR 2024)**](./vision-language/GROUNDHOG/README.md)
 
-- 🔗 [**IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement**](./vision-language/IteRPrimE/README.md)
+- 🔗 [**IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement (AAAI 2025)**](./vision-language/IteRPrimE/README.md)
 
 ---
 
