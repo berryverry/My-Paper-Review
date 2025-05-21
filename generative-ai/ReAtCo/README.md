@@ -34,7 +34,7 @@ Rather than naive copy-paste, IRJS jointly samples regions, producing results th
 
 ---
 
-## 🔍 Methodology Breakdown
+## 🔍 Methodology
 
 ```
 Source Video V + Edited Prompt P'
